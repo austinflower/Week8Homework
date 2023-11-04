@@ -1,0 +1,15 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(òü‚èüÿÿÿÿ8¸š›¹1
+[
+java:S1854"9Remove this useless assignment to local variable "empid".(¶·–Ğúÿÿÿÿ8¸š›¹1
+L	java:S106"+Replace this use of System.out by a logger.(íùÁÈüÿÿÿÿ8‡¸š›¹1
+L
+java:S1481"*Remove this unused "empid" local variable.(¶·–Ğúÿÿÿÿ8ˆ¸š›¹1
+L	java:S106"+Replace this use of System.out by a logger.( Òğúúÿÿÿÿ8ˆ¸š›¹1
+K
+java:S1481")Remove this unused "name" local variable.(òü‚èüÿÿÿÿ8ˆ¸š›¹1
+G	java:S106"+Replace this use of System.out by a logger.(±„¶8ˆ¸š›¹1
+L	java:S106"+Replace this use of System.out by a logger.(Š§£Àøÿÿÿÿ8ˆ¸š›¹1
+L	java:S106)"+Replace this use of System.out by a logger.(Á…ŸÇÿÿÿÿÿ8‰¸š›¹1
+L	java:S106*"+Replace this use of System.out by a logger.(Áú«®úÿÿÿÿ8Š¸š›¹1

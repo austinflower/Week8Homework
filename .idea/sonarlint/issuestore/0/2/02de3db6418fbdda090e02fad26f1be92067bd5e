@@ -1,0 +1,10 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "rectangle".( §–²ωÿÿÿÿ8ΛΓΉ1
+L	java:S106
+"+Replace this use of System.out by a logger.(θσΘψÿÿÿÿ8΅ΛΓΉ1
+G	java:S106"+Replace this use of System.out by a logger.(υπλπ8΅ΛΓΉ1
+P
+java:S1481".Remove this unused "rectangle" local variable.( §–²ωÿÿÿÿ8΅ΛΓΉ1
+L	java:S106"+Replace this use of System.out by a logger.(”Òθύÿÿÿÿ8¥ΛΓΉ1
+L	java:S106"+Replace this use of System.out by a logger.(±Δªίϊÿÿÿÿ8¦ΛΓΉ1

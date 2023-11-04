@@ -1,0 +1,6 @@
+
+>
+java:S2189""Correct this loop's end condition.(ÆŒİ-8¯±Ø¹1
+U
+java:S2251"9"i" is decremented and will never reach "stop condition".(ÆŒİ-8±±Ø¹1
+G	java:S106"+Replace this use of System.out by a logger.(ö®à8²±Ø¹1
