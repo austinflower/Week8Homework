@@ -1,0 +1,22 @@
+
+Y
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(ÂŸÀÜ8ç±²É¸1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(´ÉÔœøÿÿÿÿ8ç±²É¸1
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ı¢£8è±²É¸1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(×ÏÁ¤8è±²É¸1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(±•Îßüÿÿÿÿ8è±²É¸1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(–÷ö±úÿÿÿÿ8Äİ²É¸1
+L	java:S106"+Replace this use of System.out by a logger.(œªÁÓşÿÿÿÿ8÷±²É¸1
+L	java:S106"+Replace this use of System.out by a logger.(İÕåøÿÿÿÿÿ8ø±²É¸1
+G	java:S106"+Replace this use of System.out by a logger.(ŠüÙó8ù±²É¸1
+L	java:S106"+Replace this use of System.out by a logger.(Ç’ø·ıÿÿÿÿ8ú±²É¸1
+G	java:S106"+Replace this use of System.out by a logger.(‚˜‡×8ú±²É¸1
+G	java:S106"+Replace this use of System.out by a logger.(ôŒãÖ8û±²É¸1
+G	java:S106"+Replace this use of System.out by a logger.(ØÅŸœ8û±²É¸1
+G	java:S106"+Replace this use of System.out by a logger.(û‡òÀ8ü±²É¸1

@@ -1,0 +1,12 @@
+
+h
+java:S11927"KDefine a constant instead of duplicating this literal "fullName= " 3 times.(ß€ 8ããõ—¹1
+Y
+java:S1854"7Remove this useless assignment to local variable "age".(±ã¾üÿÿÿÿ8·Çô—¹1
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(‡ƒ‹¤8¸Çô—¹1
+G	java:S1067"+Replace this use of System.out by a logger.(ß€ 8ûãõ—¹1
+G	java:S1068"+Replace this use of System.out by a logger.(ÿ„Ö¶8ûãõ—¹1
+G	java:S106;"+Replace this use of System.out by a logger.(ß€ 8ûãõ—¹1
+G	java:S106<"+Replace this use of System.out by a logger.(ÿ„Ö¶8üãõ—¹1
+G	java:S106>"+Replace this use of System.out by a logger.(ß€ 8ıãõ—¹1

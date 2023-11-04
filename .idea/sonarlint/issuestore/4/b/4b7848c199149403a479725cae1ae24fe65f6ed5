@@ -1,0 +1,21 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ•ÈÄ8ÄÀÜÆ¸1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¢€ıùÿÿÿÿ8ÅÀÜÆ¸1
+W
+java:S1854":Remove this useless assignment to local variable "rollno".(°ÆÌÎ8ÌÀÜÆ¸1
+\
+java:S1854"?Remove this useless assignment to local variable "studentname".(øæî°8ÌÀÜÆ¸1
+Y
+java:S1854"7Remove this useless assignment to local variable "avg".(õªôıÿÿÿÿ8ÍÀÜÆ¸1
+G	java:S106"+Replace this use of System.out by a logger.(ƒ¿æ8ÑÀÜÆ¸1
+M
+java:S1481"0Remove this unused "studentname" local variable.(øæî°8ÑÀÜÆ¸1
+L	java:S106"+Replace this use of System.out by a logger.(”ûüÃıÿÿÿÿ8ÒÀÜÆ¸1
+H
+java:S1481"+Remove this unused "rollno" local variable.(°ÆÌÎ8ÒÀÜÆ¸1
+L	java:S106"+Replace this use of System.out by a logger.(’æª·ıÿÿÿÿ8ÒÀÜÆ¸1
+L	java:S106"+Replace this use of System.out by a logger.(¡¢ßúÿÿÿÿ8ÓÀÜÆ¸1
+L	java:S106"+Replace this use of System.out by a logger.(“Ç½øÿÿÿÿ8ÓÀÜÆ¸1
+F	java:S106"+Replace this use of System.out by a logger.(Ò¹ŞW8ÕÀÜÆ¸1
+J
+java:S1481"(Remove this unused "avg" local variable.(õªôıÿÿÿÿ8ÕÀÜÆ¸1

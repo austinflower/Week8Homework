@@ -1,0 +1,20 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘˜–Ÿ8ûÒ¤š¹1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğåªÓûÿÿÿÿ8üÒ¤š¹1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÂ¾Îûÿÿÿÿ8üÒ¤š¹1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğè¸õ8üÒ¤š¹1
+V
+java:S1854"9Remove this useless assignment to local variable "gross".(“ÇÚ8Ó¤š¹1
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(òü‚èüÿÿÿÿ8Ó¤š¹1
+[
+java:S1854"9Remove this useless assignment to local variable "empid".(¶·–Ğúÿÿÿÿ8‚Ó¤š¹1
+L	java:S106"+Replace this use of System.out by a logger.(†‰ßŸşÿÿÿÿ8…Ó¤š¹1
+L
+java:S1481"*Remove this unused "empid" local variable.(¶·–Ğúÿÿÿÿ8…Ó¤š¹1
+G	java:S106"+Replace this use of System.out by a logger.(èÆ¯š8†Ó¤š¹1
+K
+java:S1481")Remove this unused "name" local variable.(òü‚èüÿÿÿÿ8†Ó¤š¹1
+L	java:S106"+Replace this use of System.out by a logger.(ëÍøÿÿÿÿ8‡Ó¤š¹1
+G
+java:S1481"*Remove this unused "gross" local variable.(“ÇÚ8‡Ó¤š¹1
