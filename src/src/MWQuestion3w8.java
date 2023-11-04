@@ -3,10 +3,8 @@ public class MWQuestion3w8 {
 A infinite loop never ends. Condition is always true.*/
 
     public static void main(String []args){
-        int n =0;
-        do {
-            System.out.println("this is an infinite loop");
-            n++;
-        }while (n>1);
-    }
+        for (int i = 0; i < 1; i--) {
+            System.out.println("infinite loop using a for loop.");
+        }
+}
 }

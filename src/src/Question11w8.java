@@ -6,18 +6,18 @@ other alphabet should be invalid entry.*/
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println(("enter alphabet from A to F : "));
-        String city = sc.next();
-        if (city == "A") {
+        char city = sc.next().charAt(0);
+        if (city == 'A') {
             System.out.println("city is A for Ahmedabad");
-        } else if (city == "B") {
+        } else if (city == 'B') {
             System.out.println("city B for Boston");
-        } else if (city == "C") {
+        } else if (city == 'C') {
             System.out.println("city C is for California");
-        } else if (city == "D") {
+        } else if (city == 'D') {
             System.out.println("city D is for Dallas");
-        } else if (city == "E") {
+        } else if (city == 'E') {
             System.out.println("city E is for El paso");
-        } else if (city == "F") {
+        } else if (city == 'F') {
             System.out.println("city F is for Florida");
         } else {System.out.println("invalid entry");}
 

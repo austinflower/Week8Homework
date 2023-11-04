@@ -1,7 +1,7 @@
 
 W
-java:S1854"5Remove this useless assignment to local variable "i".(ü£²üÿÿÿÿ8ıÓ¸1
-X	java:S125"<This block of commented-out lines of code should be removed.(°Òåà8ÿÓ¸1
-G	java:S106"+Replace this use of System.out by a logger.(ºäËø8€Ó¸1
-]	java:S125"<This block of commented-out lines of code should be removed.(½Ñ¼õüÿÿÿÿ8µŞÓ¸1
-X	java:S125"<This block of commented-out lines of code should be removed.(»Ìß8Ó¸1
+java:S1854"5Remove this useless assignment to local variable "i".(ü£²üÿÿÿÿ8Ø¼‹Á¹1
+X	java:S125"<This block of commented-out lines of code should be removed.(°Òåà8Ú¼‹Á¹1
+G	java:S106"+Replace this use of System.out by a logger.(ºäËø8Ú¼‹Á¹1
+]	java:S125"<This block of commented-out lines of code should be removed.(½Ñ¼õüÿÿÿÿ8Ú¼‹Á¹1
+X	java:S125"<This block of commented-out lines of code should be removed.(´¾´ö8Ú¼‹Á¹1
